@@ -1,0 +1,15 @@
+gateway:
+  title: DSW Cloud for ELIXIR Gateway
+  version: 4.31.0
+  root_path: /gateway
+  info:
+    enabled: true
+    token: YCRX3fNBiFJS9ujhG9G9uvzQbMwxM5iK
+
+mounts:
+  /plugins/8d372e4a-6145-4863-9831-82eb0ead1195:
+    module: madmp_evaluation_plugin_service
+    factory: create_app
+  /plugins/e9baedad-5817-4e94-8e76-5d0461a91845:
+    module: ai_document_plugin_service
+    factory: create_app
