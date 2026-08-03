@@ -1,10 +1,9 @@
 gateway:
   title: DSW Cloud for ELIXIR Gateway
-  version: 4.31.0
+  version: 4.32.0
   root_path: /gateway
   info:
-    enabled: true
-    token: YCRX3fNBiFJS9ujhG9G9uvzQbMwxM5iK
+    enabled: false
 
 mounts:
   /plugins/8d372e4a-6145-4863-9831-82eb0ead1195:
