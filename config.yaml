@@ -12,3 +12,6 @@ mounts:
   /plugins/e9baedad-5817-4e94-8e76-5d0461a91845:
     module: ai_document_plugin_service
     factory: create_app
+  /plugins/69c7ee30-ac45-4b87-b6d5-b92532440923:
+    module: elixir_fer_plugin_service
+    factory: create_app

@@ -3,3 +3,5 @@ uvicorn==0.48.0
 madmp-evaluation-plugin-service @ git+https://github.com/fair-wizard/madmp-evaluation-plugin.git@073cfad6ef434e317da1818e02efbb3c78f5445d#subdirectory=service
 # https://github.com/ds-wizard/ai-document-plugin (develop)
 ai-document-plugin-service @ git+https://github.com/ds-wizard/ai-document-plugin.git@91f39fdc994525f7235cafbc05a9de7e14695b58#subdirectory=service
+# https://github.com/dsw-elixir/elixir-fer-plugin/releases/tag/v0.1.0
+elixir-fer-plugin-service @ git+https://github.com/dsw-elixir/elixir-fer-plugin.git@da365db2539abef35c09584e2f5faab1de5bc0ad#subdirectory=service
