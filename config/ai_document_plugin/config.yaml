@@ -26,3 +26,6 @@ database:
 
 files:
   prompts_path: "./prompts.yaml"
+  cover_definition_path: "./cover-page.yaml"
+
+encryption_key: "xxx"

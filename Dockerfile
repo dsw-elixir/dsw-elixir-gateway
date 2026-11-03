@@ -1,4 +1,4 @@
-FROM datastewardshipwizard/engine-gateway:1.0.1
+FROM datastewardshipwizard/engine-gateway:1.1.0
 
 RUN apk add --no-cache git && mkdir -p /app/config
 
