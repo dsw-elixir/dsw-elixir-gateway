@@ -1,7 +1,7 @@
 uvicorn==0.48.0
-# https://github.com/fair-wizard/madmp-evaluation-plugin/tree/v0.1.0
-madmp-evaluation-plugin-service @ git+https://github.com/fair-wizard/madmp-evaluation-plugin.git@073cfad6ef434e317da1818e02efbb3c78f5445d#subdirectory=service
-# https://github.com/ds-wizard/ai-document-plugin/releases/tag/v0.4.0
-ai-document-plugin-service @ git+https://github.com/ds-wizard/ai-document-plugin.git@09bd576d3ecbdb2dad486fe910a64dc2f298ee63#subdirectory=service
-# https://github.com/dsw-elixir/elixir-fer-plugin/releases/tag/v0.2.0
-elixir-fer-plugin-service @ git+https://github.com/dsw-elixir/elixir-fer-plugin.git@07a6e5eb8c037f9c900e8bb60deb66a8124ce88e#subdirectory=service
+# https://github.com/fair-wizard/madmp-evaluation-plugin/tree/v1.0.0
+madmp-evaluation-plugin-service @ git+https://github.com/fair-wizard/madmp-evaluation-plugin.git@7d47d295bd69f2fa4dc47970eb4449d7e96e7d74#subdirectory=service
+# https://github.com/ds-wizard/ai-document-plugin/releases/tag/v0.5.0
+ai-document-plugin-service @ git+https://github.com/ds-wizard/ai-document-plugin.git@3e50b9ddb4a2bf600d6c56dd1cd02e5111defafc#subdirectory=service
+# https://github.com/dsw-elixir/elixir-fer-plugin/releases/tag/v0.3.0
+elixir-fer-plugin-service @ git+https://github.com/dsw-elixir/elixir-fer-plugin.git@31122baa6ad3f6f5432d2a25af0625eda7bb86df#subdirectory=service
