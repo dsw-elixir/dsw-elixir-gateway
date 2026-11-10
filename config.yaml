@@ -1,6 +1,6 @@
 gateway:
   title: DSW Cloud for ELIXIR Gateway
-  version: 5.0.0
+  version: 5.0.1
   root_path: /gateway
   info:
     enabled: false
